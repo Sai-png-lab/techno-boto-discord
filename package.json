@@ -1,6 +1,6 @@
 {
-  "name": "techno-boto-discord",
-  "version": "0.0.0",
+  "name": "Innominate",
+  "version": "1.0.0",
   "description": "A discord moderator bot",
   "main": "src",
   "scripts": {
